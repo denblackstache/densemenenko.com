@@ -5,14 +5,14 @@
   Typography: 14, 16, 18, 20, 24, 28, 32, 36
  */
 :root {
-    --color-white: #ffffff;
+    --color-white: #f5f5f7;
     --color-lotion: #fcfcfc;
-    --color-gray: #f2f0ed;
-    --color-red: #e52000;
-    --color-black: #000000;
-    --color-raisin-black: #222222;
+    --color-gray: #eceded;
+    --color-red: #3a795e;
+    --color-black: #1d1d1f;
+    --color-raisin-black: #242124;
     --color-charleston-green: #2d2d2d;
-    --color-light-red: #f5bab0;
+    --color-light-red: #7ba490;
 }
 
 *::selection, *::-moz-selection {
